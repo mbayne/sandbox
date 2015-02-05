@@ -1,0 +1,11 @@
+git clone https://github.com/mbayne/sandbox.git
+
+git add -- staging
+
+git rm -- removing
+
+git remote -v -- seeing remote servers
+
+git commit -m "" -- committing staged files
+
+git push origin master  -- pushes local repo to master
