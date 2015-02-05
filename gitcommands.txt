@@ -9,3 +9,6 @@ git remote -v -- seeing remote servers
 git commit -m "" -- committing staged files
 
 git push origin master  -- pushes local repo to master
+
+
+-- some stuff i added
